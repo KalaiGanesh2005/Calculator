@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.Calculator"
+        parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <!-- Primary colors (dark) -->
+        <item name="colorPrimary">#F2CB61</item>
+        <item name="colorPrimaryVariant">#EB8E2B</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+
+        <!-- Secondary colors (dark) -->
+        <item name="colorSecondary">#80DEEA</item>
+        <item name="colorSecondaryVariant">#3F51B5</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+
+        <!-- Status bar (dark) -->
+        <item name="android:statusBarColor">#000000</item>
+
+    </style>
+
+</resources>
